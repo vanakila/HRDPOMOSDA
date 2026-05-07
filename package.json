@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/papaparse": "^5.5.2"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
+    "papaparse": "^5.5.3",
+    "tailwind-merge": "^3.5.0"
+  }
+}
